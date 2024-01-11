@@ -1,0 +1,7 @@
+import{_ as c,h as r,o as n,c as i,d as t,p as l,i as _}from"./index-htUeHhkm.js";const p={methods:{descargarPDF(){r(()=>import("./RodolfoParada-j4n2rAGM.js"),__vite__mapDeps([])).then(e=>{const a=document.createElement("a");a.href=e.default,a.target="_blank",a.download="curriculum-RodolfoParada.pdf",a.type="application/pdf",document.body.appendChild(a),a.click(),document.body.removeChild(a)})}}},o=e=>(l("data-v-e6d2137a"),e=e(),_(),e),h={class:"descarga"},f=o(()=>t("h1",null,"Descargas",-1)),m={class:"d-flex justify-content-center"},u=o(()=>t("a",{class:"flecha",href:"https://www.gifsanimados.org/cat-flechas-111.htm"},null,-1)),g=o(()=>t("img",{src:"https://www.gifsanimados.org/data/media/111/flecha-imagen-animada-0025.gif",border:"0",alt:"Descarga Aquí Cv",height:"50"},null,-1));function w(e,a,v,b,k,s){return n(),i("div",h,[f,t("div",m,[u,g,t("button",{class:"btn btn-primary",onClick:a[0]||(a[0]=(...d)=>s.descargarPDF&&s.descargarPDF(...d))}," Haz click Aquí ")])])}const P=c(p,[["render",w],["__scopeId","data-v-e6d2137a"]]);export{P as default};
+function __vite__mapDeps(indexes) {
+  if (!__vite__mapDeps.viteFileDeps) {
+    __vite__mapDeps.viteFileDeps = []
+  }
+  return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
+}

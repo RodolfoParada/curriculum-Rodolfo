@@ -1,0 +1,1 @@
+import{_ as n,o,c as d,d as s,g as t}from"./index-htUeHhkm.js";const a={},c={class:"item"},r={class:"details"};function l(e,i){return o(),d("div",c,[s("i",null,[t(e.$slots,"icon",{},void 0,!0)]),s("div",r,[s("h3",null,[t(e.$slots,"heading",{},void 0,!0)]),t(e.$slots,"default",{},void 0,!0)])])}const u=n(a,[["render",l],["__scopeId","data-v-40a5c0e5"]]);export{u as W};
